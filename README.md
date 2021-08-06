@@ -1,6 +1,6 @@
 # Black Duck CoPilot Gradle/GitHub CI Example
 
-[![Actions](https://github.com/BlackDuckCoPilot/example-npm-githubactions/workflows/Java%20CI/badge.svg)](https://github.com/BlackDuckCoPilot/example-npm-githubactions/actions?workflow=Java+CI) [![Black Duck Security Risk](https://copilot-valid.blackducksoftware.com/github/repos/BlackDuckCoPilot/example-npm-githubactions/branches/validation/badge-risk.svg)](https://copilot-valid.blackducksoftware.com/github/repos/BlackDuckCoPilot/example-npm-githubactions/branches/validation)
+[![Actions](https://github.com/BlackDuckCoPilot/example-npm-githubactions/workflows/Node%20CI/badge.svg)](https://github.com/BlackDuckCoPilot/example-npm-githubactions/actions?workflow=Java+CI) [![Black Duck Security Risk](https://copilot-valid.blackducksoftware.com/github/repos/BlackDuckCoPilot/example-npm-githubactions/branches/validation/badge-risk.svg)](https://copilot-valid.blackducksoftware.com/github/repos/BlackDuckCoPilot/example-npm-githubactions/branches/validation)
 
 Shows a working setup for using the Black Duck CoPilot integration to analyze the risk of project dependencies
 
